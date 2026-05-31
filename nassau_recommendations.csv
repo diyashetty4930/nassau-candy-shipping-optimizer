@@ -1,0 +1,16 @@
+Product,Current Factory,Recommended Factory,Current LT (days),Predicted LT (days),LT Improvement (days),Improvement %,Profit Margin %,Total Sales ($),Current Dist (mi),New Dist (mi),Risk Level,Priority Score
+Everlasting Gobstopper,Secret Factory,Lot's O' Nuts,1641.0,1525.3,115.7,7.05,80.0,30.0,126.1,1188.6,🟢 LOW RISK,101.4
+SweeTARTS,Sugar Shack,Secret Factory,1383.5,1310.6,72.9,5.27,46.67,61.5,978.9,615.9,🟡 MEDIUM RISK,62.4
+Laffy Taffy,Sugar Shack,Wicked Choccy's,1383.1,1345.9,37.2,2.69,62.31,53.73,1218.9,618.2,🟡 MEDIUM RISK,47.2
+Fizzy Lifting Drinks,Sugar Shack,Lot's O' Nuts,1273.5,1248.8,24.7,1.94,60.0,78.75,1048.4,1360.3,🟡 MEDIUM RISK,38.8
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Secret Factory,1325.4,1318.3,7.1,0.54,65.33,27067.5,1165.3,946.4,🟡 MEDIUM RISK,30.4
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Wicked Choccy's,1328.6,1325.7,2.9,0.22,71.35,22667.55,1234.2,1142.1,🟡 MEDIUM RISK,30.3
+Lickable Wallpaper,Secret Factory,Wicked Choccy's,1455.8,1439.2,16.6,1.14,50.0,80.0,626.3,452.9,🟡 MEDIUM RISK,30.0
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Secret Factory,1321.3,1318.5,2.9,0.22,69.44,26312.4,1250.5,934.8,🟡 MEDIUM RISK,29.5
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Secret Factory,1315.2,1310.8,4.4,0.33,66.67,23587.2,1259.9,919.9,🟡 MEDIUM RISK,29.3
+Hair Toffee,The Other Factory,Sugar Shack,1455.2,1459.3,-4.0,-0.28,77.78,76.5,1148.7,1385.2,🔴 DO NOT MOVE,28.7
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Secret Factory,1317.0,1313.4,3.6,0.27,64.92,25671.75,1117.0,913.2,🟡 MEDIUM RISK,28.1
+Nerds,Sugar Shack,Wicked Choccy's,1274.0,1275.6,-1.6,-0.12,46.67,15.0,1273.4,295.6,🔴 DO NOT MOVE,17.7
+Wonka Gum,Secret Factory,Sugar Shack,1306.5,1314.1,-7.6,-0.58,52.0,597.5,840.5,1136.0,🔴 DO NOT MOVE,16.2
+Kazookles,The Other Factory,Wicked Choccy's,1273.0,1280.9,-7.9,-0.62,7.69,1205.75,937.6,1056.8,🔴 DO NOT MOVE,-1.7
+Fun Dip,Sugar Shack,Lot's O' Nuts,1272.7,1398.3,-125.6,-9.87,40.0,12.0,1014.7,1461.6,🔴 DO NOT MOVE,-59.4
